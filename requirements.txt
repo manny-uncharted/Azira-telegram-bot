@@ -29,6 +29,7 @@ pydantic==2.5.1
 pydantic_core==2.14.3
 pyTelegramBotAPI==4.14.0
 pytest==7.4.3
+python-dotenv==1.0.0
 python-engineio==4.8.0
 python-socketio==5.10.0
 pyzmq==25.1.1

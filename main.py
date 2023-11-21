@@ -12,7 +12,7 @@ load_dotenv()
 
 from utils import *
 
-BOT_TOKEN = os.environ.get("SQLALCHEMY_DATABASE_URL")
+BOT_TOKEN = os.environ.get("BOT_TOKEN")
 bot = telebot.TeleBot(BOT_TOKEN)
 
 

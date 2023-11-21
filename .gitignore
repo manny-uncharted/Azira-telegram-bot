@@ -1,3 +1,5 @@
 .env
 bot.db
 auth_token.txt
+scripts/
+__pycache__/
